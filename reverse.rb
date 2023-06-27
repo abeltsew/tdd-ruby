@@ -1,3 +1,3 @@
 def reverse(str)
-    str.reverse
+  str.reverse
 end
